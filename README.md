@@ -1,5 +1,5 @@
 # CoinNotify
-Tired missing the cypto waves?
+Tired of missing the cypto waves?
 Sign up and receive an email notification of altcoins that are getting listen in an exchange and your current buying options.
 
 Stay ahead of the whales by getting the best prices.
