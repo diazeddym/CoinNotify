@@ -1,4 +1,4 @@
-# CoinNotify
+# CoiNotify
 Tired of missing the cypto waves?
 Sign up and receive an email notification of altcoins that are getting listen in an exchange and your current buying options.
 
